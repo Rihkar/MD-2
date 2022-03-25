@@ -12,13 +12,14 @@ text-decoration: underline;
   display: block;
     margin: 0 auto; 
      border:black 50px solid;
-      margin: 0 auto;
+     
 }
 .body2{
     height: 1350px;
     width: 1000px;
     border:black 2px solid;
     margin: 0 auto;
+    
     
 }
 
